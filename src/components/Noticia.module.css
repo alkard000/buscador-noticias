@@ -1,0 +1,12 @@
+.icon {
+    width: 100%!important;
+    font-size: 20px;
+}
+.circle {
+    display: flex;
+    align-items: center;
+}
+.title{
+    font-size: 15px;
+    font-weight: bold;
+}
